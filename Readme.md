@@ -42,5 +42,5 @@ I want to update the style to fit both the desktop and mobile design and also bu
 ## Author
 - Github - [Aisha Idowu](https://github.com/AishaIdowu)
 ## Live page
-- [Live page]()
+- [Live page](https://aishaidowu.github.io/Color-flipper/)
 
